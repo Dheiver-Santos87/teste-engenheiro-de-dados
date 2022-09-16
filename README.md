@@ -2,6 +2,8 @@
 Critérios avaliadas:
 - Docker;❌
 - SQL;✔️
+- PySpark✔️
+- Colab;✔️
 - Python;✔️
 - Organização do Código✔️
 - Documentação✔️
